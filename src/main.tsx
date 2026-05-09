@@ -1,6 +1,5 @@
-import { createRoot } from 'react-dom/client'
-import './index.css'
+import { createRoot } from "react-dom/client";
+import "./index.css";
+import Providers from "./providers/providers";
 
-createRoot(document.getElementById('root')!).render(
-    <h1>Hello</h1>
-)
+createRoot(document.getElementById("root")!).render(<Providers />);

@@ -12,6 +12,8 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.2.4",
     "@tanstack/react-query": "^5.100.9",
+    "flowbite": "^4.0.1",
+    "flowbite-react": "^0.12.17",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-hook-form": "^7.75.0",
